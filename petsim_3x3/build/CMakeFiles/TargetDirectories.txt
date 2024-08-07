@@ -1,0 +1,4 @@
+/home/ni/Downloads/petsim_3x3/build/CMakeFiles/sim.dir
+/home/ni/Downloads/petsim_3x3/build/CMakeFiles/Simulation.dir
+/home/ni/Downloads/petsim_3x3/build/CMakeFiles/edit_cache.dir
+/home/ni/Downloads/petsim_3x3/build/CMakeFiles/rebuild_cache.dir
